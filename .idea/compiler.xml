@@ -8,14 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ms-deposit-bank" />
+        <module name="ms-consumption" />
         <module name="ms-transaction" />
         <module name="ms-retire" />
-        <module name="ms-consumption" />
         <module name="ms-customer" />
         <module name="ms-credit" />
-        <module name="ConfigServer" />
         <module name="ms-pasives" />
         <module name="ms-payment" />
+        <module name="ConfigServer" />
         <module name="eureka-server" />
         <module name="ms-product" />
         <module name="ms-acquisition-bank" />
